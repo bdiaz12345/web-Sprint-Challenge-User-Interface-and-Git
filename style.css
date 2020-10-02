@@ -1,0 +1,114 @@
+html, body {
+    font-size: 100%;
+    max-width: 70em;
+
+}
+.home {
+    text-decoration: none;
+    color: black;
+}
+
+.about-text {
+    font-size: 30px;
+}
+.jumbo {
+    width: 60em;
+    margin-left: 9em;
+}
+.section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.strategy {
+    border-bottom: 1px dashed black;
+    width: 35%;
+    margin-right: 40px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+
+.about-section {
+    border-bottom: 1px dashed black;
+    width: 60em;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+.work {
+    border-bottom: 1px dashed black;
+    width: 35%;
+    margin-bottom: 20px;
+}
+.office {
+    border-bottom: 1px dashed black;
+    width: 35%;
+    margin-right: 40px;
+    margin-left: 150px;
+}
+.collab {
+    border-bottom: 1px dashed black;
+    width: 35%;
+}
+
+.header1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 10%;
+}
+.lambda {
+    height: 3em;
+    margin-top: 1.3em;
+    position: relative;
+    left: 7%;
+}
+
+h2 {
+    font-size: 22px;
+}
+.navhead {
+    margin: 2em 2em 0em 2em;
+
+}
+.last-sec {
+    width: 60em;
+    margin-left: 150px;
+}
+footer {
+    width: 31em;
+    background: black;
+    margin-left: 150px;
+    height: 50px;
+    font-size: 30px;
+}
+.link-home {
+    text-decoration: none;
+    color: white;
+}
+.link-about {
+    margin-left: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+.link-products {
+    margin-left: 40px;
+    text-decoration: none;
+    color: white;
+}
+.link-blog {
+    margin-left: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+.link-contact {
+    margin-left: 40px;
+    text-decoration: none;
+    color: white;
+}
